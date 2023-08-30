@@ -517,7 +517,7 @@ section {
   overflow: hidden;
 }
 
-#slider .carousel slide section {
+.carousel .slide section {
   padding: 60px 0px 0px 0px;
 }
 
