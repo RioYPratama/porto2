@@ -517,6 +517,11 @@ section {
   overflow: hidden;
 }
 
+#slider section {
+  padding: px ;
+  overflow: hidden;
+}
+
 .section-bg {
   background-color: #f3f5fa;
 }
