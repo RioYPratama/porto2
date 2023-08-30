@@ -517,10 +517,6 @@ section {
   overflow: hidden;
 }
 
-.carousel .slide section {
-  padding: 60px 0px 0px 0px;
-}
-
 .section-bg {
   background-color: #f3f5fa;
 }
